@@ -2,10 +2,9 @@ import {
   Users,
   LayoutDashboard,
   ClipboardClock,
-  Settings,
   ChartBarBig,
-  LogOut,
 } from 'lucide-react'
+
 export const menuList = [
   {
     group: 'General',
