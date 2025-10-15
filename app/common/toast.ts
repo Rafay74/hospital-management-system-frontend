@@ -1,4 +1,5 @@
 import toast from 'react-hot-toast'
+
 import { toastOptions } from '../providers/toast-provider'
 
 type ToastType = 'success' | 'error' | 'loading' | 'info'
